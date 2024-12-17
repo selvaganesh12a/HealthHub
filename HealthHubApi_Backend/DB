@@ -1,0 +1,18 @@
+ CREATE TABLE practitioner (
+    practitioner_id INT NOT NULL AUTO_INCREMENT ,
+    first_name VARCHAR(50) NOT NULL,
+    last_name VARCHAR(50) NOT NULL,
+    specialty VARCHAR(100),
+    phone_number VARCHAR(15),
+    email VARCHAR(100),
+    years_of_experience INT,
+    hospital_id INT,
+    PRIMARY KEY (`practitioner_id`)     
+);
+
+insert into practitioner values (1, 'John' ,'Doe' ,'Neuro' , '9121212111' , 'john.doe@testmail.com', 10, 1   );
+insert into practitioner values (2, 'Jane' ,'Doe' ,'Dental' , '9121333111' , 'jane.doe@testmail.com', 10, 1   );
+insert into practitioner values (3, 'Mike' ,'Will' ,'Ortho' , '9121290901' , 'mike.will@testmail.com', 10, 1   );
+insert into practitioner values (4, 'James' ,'junior' ,'Neuro' , '9164442111' , 'james.junior@testmail.com', 10, 1   );
+insert into practitioner values (5, 'Lara' ,'SJKL' ,'Neuro' , '9121212111' , 'lara.s@testmail.com', 10, 1   );
+insert into practitioner values (6, 'Smitha' ,'Jr' ,'Neuro' , '9121212111' , 'smitha.jr@testmail.com', 10, 1   );
