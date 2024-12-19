@@ -8,7 +8,7 @@ Health Hub Appointment Booking System is a comprehensive web application designe
 A responsive front-end built with Angular for seamless user experience.
 ## Appointment Scheduling: 
 Patients can book, reschedule, and cancel appointments with ease.
-## Database Management: MySQL database ensures efficient storage and retrieval of appointment and user data.
+### Database Management: MySQL database ensures efficient storage and retrieval of appointment and user data.
 Secure Back-End: Spring Boot handles authentication, authorization, and business logic securely.
 Technologies Used:
 Front-End: Angular
