@@ -16,7 +16,9 @@ Spring Boot handles authentication, authorization, and business logic securely.
 Front-End: Angular
 
 Back-End: Spring Boot
+
 Database: MySQL
+
 Programming Language: Java
 ## Purpose:
 This project aims to enhance healthcare accessibility by providing a digital platform for patients to manage their appointments effectively.
