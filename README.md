@@ -14,6 +14,7 @@ MySQL database ensures efficient storage and retrieval of appointment and user d
 Spring Boot handles authentication, authorization, and business logic securely.
 ## Technologies Used:
 Front-End: Angular
+
 Back-End: Spring Boot
 Database: MySQL
 Programming Language: Java
